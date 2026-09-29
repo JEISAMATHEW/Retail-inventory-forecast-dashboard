@@ -125,7 +125,6 @@ LinkedIn Showcase
 ```text
 Retail-Inventory-Forecast-Dashboard/
 │
-├── sales_data.csv
 ├── sales_data.xlsx
 ├── Retail-Inventory-Forecast-Dashboard.mp4
 ├── Retail-Inventory-Forecast-Dashboard.twbx
